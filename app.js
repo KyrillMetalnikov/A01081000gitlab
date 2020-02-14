@@ -4,7 +4,7 @@ var myMovieList = document.querySelector("ul");
 
 // Added movieHistory **1
 var movieHistory = document.querySelector("#movieHistoryCard");
-
+// added new comment
 // Added myMOvies object **2
 var myMovies = {
     
