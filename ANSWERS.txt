@@ -1,0 +1,8 @@
+1. cd desktop
+2. cd newfolder
+3. git init
+4. git add index.html
+6. git add app.js
+7. git commit -m "Another commit"
+8. git remote origin add https://github.com/Tokeybee/A01081000gitlab.git
+9. git push origin master
